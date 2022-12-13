@@ -7,14 +7,14 @@ Instructions to this assignment can be found [here](https://it3049c.github.io/Ma
 ## Checklist:
 - [x] update the assignment checks above to the correct link. - Done Automatically
 - [ ] All tests are passing
-- [ ] filled out the self-evaluation.
-- [ ] filled out the self-reflection.
+- [x] filled out the self-evaluation.
+- [x] filled out the self-reflection.
 
 ## Self-Evaluation: 
-how many points out of 20 does your team deserve on this assignment. Revise the assignment grading guideline and assignment rubrics for guidance.
-
+I would say I deserve a 12/20 on this, I did parts 1-3 and tried doing the last part but the site wasn't working correctly when I finished it.
 ## Team Reflection:
-- Where did you encounter struggles today, and what did you do to deal with it?
+I struggled with this last portion...I tried to look up why my code wasn't functioning but wasn't able to figure it out. I tried using a javascript code validator but it wasn't much of a help. After I finished part 4 the site wasn't responding to input with the computer's choice and the result of the game
 
 
 ### How long it took us to finish this?
+Around an hour
